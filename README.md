@@ -5,6 +5,7 @@ The purpose of this analysis is to view different costs of rides for different t
 ## Results:
 ![alt text](https://github.com/kajev/PyBer_Analysis/blob/main/analysis/Fig1.png)
 Above you can see that more dense cities tend to have lower ride costs and it happens more frequently due to the higher population in urban cities.This is directly proven by the box plot below.
+
 ![alt text](https://github.com/kajev/PyBer_Analysis/blob/main/analysis/Fig2.png)
 The image below shows that while costs may be higher in rural areas due to traveling farther distances, urban city types hold most of the market due to the amount of people needing rides in that city type. If we had more data to compare population density, I would further prove this.
 ![alt text](https://github.com/kajev/PyBer_Analysis/blob/main/analysis/Fig5.png)
